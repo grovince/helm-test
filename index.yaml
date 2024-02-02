@@ -1,0 +1,11 @@
+apiVersion: v1
+entries:
+  myapp:
+  - apiVersion: v2
+    created: "2024-02-02T02:46:29.713170688Z"
+    digest: 8c0e11e7f7e47ee7913fdc1bc6bb916ca6eae40c23f761882b2f54e4f68dd896
+    name: myapp
+    urls:
+    - https://grovince.github.io/helm-test/myapp-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-02-02T02:46:29.712855861Z"
