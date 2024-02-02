@@ -1,0 +1,6 @@
+# chart.yaml
+# 차트에 대한 정보를 가진 yaml 파일
+
+apiVersion: v2
+name:  myapp
+version: 1.0.0
